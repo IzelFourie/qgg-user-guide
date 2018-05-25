@@ -1,6 +1,6 @@
 ---
 title: "Prepare Phenotype and Covariate Data"
-author: "Izel Fourie Sørensen, Pernille Merete Sarup, Palle Duun Rohde"
+author: "Izel Fourie Sorensen, Pernille Merete Sarup, Palle Duun Rohde"
 date: "April 3, 2018"
 output: pdf_document
 ---
