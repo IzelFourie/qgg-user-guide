@@ -1,2 +1,2 @@
 # qgg-user-guide
-User guide for qgg package in R
+User guide for qgg R package
