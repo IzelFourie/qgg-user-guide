@@ -1,6 +1,6 @@
 ---
 title: "Prepare Phenotype and Covariate Data"
-author: "Izel Fourie Sorensen, Pernille Merete Sarup, Palle Duun Rohde"
+author: "Izel Fourie Sørensen, Pernille Merete Sarup, Palle Duun Rohde"
 date: "April 3, 2018"
 output: pdf_document
 ---
@@ -9,7 +9,7 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = "C:/Users/Izel/Dropbox/qgg-usersguide")
+knitr::opts_knit$set(root.dir = "/Users/manager/Dropbox/GitHub/qgg-usersguide")
 ```
 
 ```{r, echo=FALSE}
